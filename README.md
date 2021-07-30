@@ -11,4 +11,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Vinícius-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathvra/)](https://www.linkedin.com/in/mathvra/) 
 [![Gmail Badge](https://img.shields.io/badge/-matheusvram@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusvram@gmail.com)](mailto:matheusvram@gmail.com)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathvra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<div>
+  <a href="https://github.com/mathvra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathvra&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathvra&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
